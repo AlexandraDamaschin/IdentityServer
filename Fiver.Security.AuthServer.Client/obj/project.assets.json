@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\e6420\\Desktop\\IS\\Fiver.Security.AuthServer.Client\\Fiver.Security.AuthServer.Client.csproj",
+      "projectUniqueName": "C:\\Users\\e6420\\Documents\\GitHub\\IdentityServer\\Fiver.Security.AuthServer.Client\\Fiver.Security.AuthServer.Client.csproj",
       "projectName": "Fiver.Security.AuthServer.Client",
-      "projectPath": "C:\\Users\\e6420\\Desktop\\IS\\Fiver.Security.AuthServer.Client\\Fiver.Security.AuthServer.Client.csproj",
+      "projectPath": "C:\\Users\\e6420\\Documents\\GitHub\\IdentityServer\\Fiver.Security.AuthServer.Client\\Fiver.Security.AuthServer.Client.csproj",
       "packagesPath": "C:\\Users\\e6420\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\e6420\\Desktop\\IS\\Fiver.Security.AuthServer.Client\\obj\\",
+      "outputPath": "C:\\Users\\e6420\\Documents\\GitHub\\IdentityServer\\Fiver.Security.AuthServer.Client\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
